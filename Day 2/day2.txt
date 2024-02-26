@@ -1,0 +1,20 @@
+21. Create a tuple with three elements and print each element.
+22. Add two lists element-wise and print the result.
+23. Remove duplicates from a list and print the modified list.
+24. Check if a specific element is present in a list.
+25. Convert a list to a set and then back to a list.
+26. Find the intersection of two sets.
+27. Create a dictionary with keys as fruits and values as their colors.
+28. Print the keys of the dictionary.
+29. Add a new key-value pair to the dictionary.
+30. Iterate over the items of the dictionary and print them.
+31. Create a class representing a car with attributes like model and color.
+32. Write a program to read a file and print its content.
+33. Implement a function to calculate the Fibonacci sequence.
+34. Create a simple Flask web application with a route that returns "Hello, Flask!".
+35. Use a decorator to measure the execution time of a function.
+36. Find all prime numbers between 1 and 50.
+37. Implement a basic text-based game using functions and control flow.
+38. Use regular expressions to validate a phone number.
+39. Write a program to fetch data from an API using the `requests` library.
+40. Implement a basic multithreading program in Python.

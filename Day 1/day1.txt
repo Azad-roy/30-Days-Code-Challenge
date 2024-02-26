@@ -1,0 +1,20 @@
+1. Print the phrase "Hello, Python!".
+2. Define a variable `num` with the value 7 and print it.
+3. Calculate the sum of 10 and 15 and print the result.
+4. Create a variable `name` with your name and print a greeting using that variable.
+5. Calculate and print the product of 5 and 8.
+6. Define a variable `temperature_celsius` with a value and convert it to Fahrenheit using the formula `(celsius * 9/5) + 32`.
+7. Use an if statement to check if a number is greater than 10 and print the result.
+8. Write a function to calculate the area of a rectangle (length * width).
+9. Create a list of three colors and print each color on a new line.
+10. Use a for loop to print numbers from 1 to 5.
+11. Write a Python script that takes user input for their age and prints it.
+12. Create a variable `number` and check if it's even or odd using an if-else statement.
+13. Define a function that calculates the factorial of a number.
+14. Create a function that checks if a given year is a leap year.
+15. Implement a calculator function that takes two numbers and an operator (+, -, *, /) and returns the result.
+16. Use a while loop to print numbers from 1 to 3.
+17. Write a program to find the maximum of three numbers using functions.
+18. Create a list of numbers and use list comprehension to create a new list with squared elements.
+19. Write a function to reverse a string.
+20. Check if a given string is a palindrome.
