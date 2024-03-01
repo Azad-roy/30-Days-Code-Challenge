@@ -1,0 +1,50 @@
+1. Create an empty dictionary named `my_dict`.
+2. Add the key-value pair 'name': 'Alice' to `my_dict`.
+3. Print the value associated with the key 'name' in `my_dict`.
+4. Change the value of the key 'name' to 'Bob'.
+5. Check if the key 'age' exists in `my_dict`.
+6. Print the number of key-value pairs in `my_dict`.
+7. Remove the key-value pair with the key 'name' from `my_dict`.
+8. Print all the keys in `my_dict` using a loop.
+9. Print all the values in `my_dict` using a loop.
+10. Print all key-value pairs in `my_dict` using a loop.
+11. Create a dictionary named `grades` with keys as student names and values as their respective grades: ['Alice', 'Bob', 'Charlie'] and [90, 85, 95].
+12. Merge the dictionaries `dict1` and `dict2` into a new dictionary named `merged_dict`.
+13. Sort the dictionary `my_dict` by keys in ascending order.
+14. Check if two dictionaries, `dict1` and `dict2`, are equal.
+15. Create a shallow copy of `my_dict` named `copy_dict`.
+16. Can you use a list as a key in a dictionary? Explain.
+17. Use the `get()` method to retrieve the value for the key 'age' from `my_dict`, with a default value of 0.
+18. Create a dictionary with squares of numbers from 1 to 5 using dictionary comprehension.
+19. Remove the last inserted key-value pair from `my_dict`.
+20. Convert two lists, keys = ['a', 'b', 'c'] and values = [1, 2, 3], into a dictionary.
+21. Check if the value 25 exists in the values of `my_dict`.
+22. Explain the concept of dictionary views and provide an example.
+23. Remove the key 'gender' from `my_dict` with a default value of 'Not specified'.
+24. Create an empty dictionary named `empty_dict`.
+25. Check if the keys in `dict1` are the same as the keys in `dict2`.
+26. Use dictionary unpacking to create a new dictionary by combining `dict1` and `dict2`.
+27. Update the value of the key 'quantity' in `inventory_dict` by adding 10.
+28. Remove all items from `my_dict`.
+29. Explain what happens in a hash collision in the context of dictionaries.
+30. Create a default dictionary named `default_counts` with a default value of 0.
+31. Add a key 'colors' with a list of colors ['red', 'green', 'blue'] to `my_dict`.
+32. Retrieve the second color from the 'colors' key in `my_dict`.
+33. Add a new color 'yellow' to the list of colors in the 'colors' key.
+34. Create a dictionary with keys as numbers 1 to 5 and values as lists of their multiples up to 5.
+35. Check if all keys in `my_dict` are strings.
+36. Print the sum of all values in `my_dict`.
+37. Remove the last color from the list of colors in the 'colors' key.
+38. Create a dictionary with keys as vowels and values as their ASCII values.
+39. Check if all values in `my_dict` are unique.
+40. Replace the list of colors in the 'colors' key with a tuple of colors.
+41. Create a dictionary with keys as months and values as the number of days in each month.
+42. Check if all keys in `my_dict` are lowercase.
+43. Convert the values in `my_dict` to uppercase.
+44. Create a dictionary with keys as even numbers from 2 to 10 and values as their squares.
+45. Check if any value in `my_dict` is an empty string.
+46. Create a dictionary with keys as programming languages and values as their popularity index.
+47. Convert the keys in `my_dict` to a list.
+48. Create a dictionary with keys as weekdays and values as a list of tasks for each day.
+49. Check if all values in `my_dict` are of numeric type.
+50. Create a dictionary with keys as countries and values as dictionaries containing their capital and population.

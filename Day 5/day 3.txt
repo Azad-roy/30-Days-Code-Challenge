@@ -1,0 +1,54 @@
+1. Write a Python function to check if a number is positive, negative, or zero.
+2. Create a function to calculate the factorial of a given number using a loop.
+3. Implement a function that checks if a given year is a leap year.
+4. Write a simple calculator program with functions for addition, subtraction, multiplication, and division.
+5. Use a while loop to print numbers from 1 to 5.
+6. Write a program to find the maximum of three numbers using a function.
+7. Create a list and use list comprehension to create a new list with squared elements.
+8. Write a function to reverse a string.
+9. Check if a given string is a palindrome using a function.
+10. Use a try-except block to handle division by zero in a program.
+
+11. Create a function to calculate the power of a number.
+12. Write a program to print the Fibonacci sequence up to a certain number.
+13. Implement a function to check if a number is a prime number.
+14. Create a function to find the LCM (Least Common Multiple) of two numbers.
+15. Write a program that takes a list of numbers and returns the sum of even numbers.
+16. Implement a function to calculate the area of a circle.
+17. Write a program to find the common elements between two lists.
+18. Create a function that counts the occurrences of each character in a string.
+19. Use recursion to calculate the factorial of a number.
+20. Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+
+21. Implement a function to check if a given string has all unique characters.
+22. Write a program to find the square root of a number using the Newton-Raphson method.
+23. Create a function that generates a random password.
+24. Implement a program to convert a decimal number to binary.
+25. Write a function to check if a number is an Armstrong number.
+26. Create a program to print the first N prime numbers.            
+27. Implement a function to find the longest word in a sentence.
+28. Write a program to reverse the order of words in a sentence.
+29. Create a function to calculate the sum of digits in a number.
+30. Write a program to find the missing number in a sequence of integers.
+
+31. Implement a function to convert a Roman numeral to an integer.
+32. Write a program to print Pascal's Triangle up to a certain number of rows.
+33. Create a function to check if a number is a palindrome in binary representation.
+34. Implement a program to perform matrix addition.
+35. Write a function to find the intersection of two lists.
+36. Create a program to sort a list of numbers using the bubble sort algorithm.
+37. Implement a function to generate the next palindrome number.
+38. Write a program to convert a list of strings to a single string.
+39. Create a function to calculate the square of each element in a list.
+40. Implement a program to count the number of vowels in a string.
+
+41. Write a function to check if a string is an anagram of another string.
+42. Create a program to find the common elements in three lists.
+43. Implement a function to find the median of a list of numbers.
+44. Write a program to find the second-largest element in a list.
+45. Create a function to check if a given string is a valid email address.
+46. Implement a program to rotate a list to the right by K steps.
+47. Write a function to convert a string to title case.
+48. Create a program to generate a list of prime numbers within a given range.
+49. Implement a function to perform binary search on a sorted list.
+50. Write a program to check if a given number is a perfect number.
