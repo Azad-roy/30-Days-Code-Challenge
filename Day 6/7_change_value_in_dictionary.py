@@ -4,9 +4,5 @@ my_dict={}
 key_value={
     "name":"Alice"
 }
-key_value={
-    "Bob":"Alice"
-}
-
-my_dict.update(key_value)
+my_dict["name"]="Bob"
 print(my_dict)
