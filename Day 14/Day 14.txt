@@ -1,0 +1,21 @@
+**Day 4: Python Functions**
+
+1. Write a Python function that takes two numbers as arguments and returns their sum.
+
+2. Write a Python function that takes a string as input and returns the length of the string.
+
+3. Write a Python function that takes a list of numbers as input and returns the sum of all the numbers in the list.
+
+4. Write a Python function that takes a list of numbers as input and returns the average of those numbers.
+
+5. Write a Python function that checks if a given number is prime or not.
+
+6. Write a Python function that takes a list of strings as input and returns a new list with all the strings capitalized.
+
+7. Write a Python function that checks if a given string is a palindrome.
+
+8. Write a Python function that takes a list of numbers as input and returns a new list containing only the even numbers from the original list.
+
+9. Write a Python function that calculates the factorial of a given number using recursion.
+
+10. Write a Python function that takes a number as input and returns its square.

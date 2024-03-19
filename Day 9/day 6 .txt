@@ -20,6 +20,7 @@
 18. Create a dictionary with squares of numbers from 1 to 5 using dictionary comprehension.
 19. Remove the last inserted key-value pair from `my_dict`.
 20. Convert two lists, keys = ['a', 'b', 'c'] and values = [1, 2, 3], into a dictionary.
+
 21. Check if the value 25 exists in the values of `my_dict`.
 22. Explain the concept of dictionary views and provide an example.
 23. Remove the key 'gender' from `my_dict` with a default value of 'Not specified'.

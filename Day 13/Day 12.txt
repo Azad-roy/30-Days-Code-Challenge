@@ -1,0 +1,45 @@
+**Day 3: Conditional Statements and Loops**
+
+1. Write a Python program that checks if a number is positive, negative, or zero.
+
+2. Write a Python program to check if a number is even or odd.
+
+3. Write a Python program to find the factorial of a number using a loop.
+
+4. Write a Python program to print the Fibonacci sequence up to a specified number of terms.
+
+5. Write a Python program to find the sum of natural numbers up to \(n\) using a loop.
+
+6. Write a Python program to display the multiplication table of a given integer.
+
+7. Write a Python program to check if a number is a prime number.
+
+8. Write a Python program to find the sum of all the multiples of 3 or 5 below 1000.
+
+9. Write a Python program to compute the greatest common divisor (GCD) of two positive integers using a loop.
+
+10. Write a Python program to find the sum of digits in a positive integer using a loop.
+
+
+
+**Day 3: Conditional Statements and Loops (Advanced)**
+
+1. Write a Python program that takes a list of numbers and separates them into positive, negative, and zero lists using list comprehensions.
+
+2. Implement a Python program to determine whether a given year is a leap year or not using conditional statements. 
+
+3. Write a Python program to generate a Pascal's triangle up to a specified number of rows.
+
+4. Create a Python program that prints the prime factors of a given number using a loop.
+
+5. Implement a Python program to find the Armstrong numbers in a certain range using a loop.
+
+6. Write a Python program to find the sum of all the prime numbers within a specified range.
+
+7. Develop a Python program to perform binary search on a sorted list of numbers.
+
+8. Write a Python program to check if a given string is a palindrome using a loop.
+
+9. Implement a Python program to calculate the factorial of a number using recursion.
+
+10. Write a Python program to compute the Fibonacci sequence using recursion.
